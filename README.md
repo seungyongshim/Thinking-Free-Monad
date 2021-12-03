@@ -1,1 +1,4 @@
-# Thinking-Free-Monad
+## Thinking-Free-Monad
+---
+
+* https://fsharpforfunandprofit.com/posts/dependencies/
